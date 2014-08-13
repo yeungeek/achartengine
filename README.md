@@ -24,3 +24,7 @@ Read a short introduction to AChartEngine here: http://www.javaadvent.com/2012/1
 Another good tutorial can be read here: http://jaxenter.com/effort-free-graphs-on-android-with-achartengine-46199.html
 
 ![](http://www.achartengine.org/dimages/average_temperature.png)
+![](http://www.achartengine.org/dimages/sales_line_and_area_chart.png)  
+![](http://www.achartengine.org/dimages/temperature_range_chart.png)  
+![](http://www.achartengine.org/dimages/combined_chart.png)  
+![](http://www.achartengine.org/dimages/multiple_axis_cubic_line.png)  
