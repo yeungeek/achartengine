@@ -22,3 +22,5 @@ Find us on Facebook, too: http://www.facebook.com/achartengine
 Read a short introduction to AChartEngine here: http://www.javaadvent.com/2012/12/achartengine-charting-library-for.html
 
 Another good tutorial can be read here: http://jaxenter.com/effort-free-graphs-on-android-with-achartengine-46199.html
+
+![](http://www.achartengine.org/dimages/average_temperature.png)
